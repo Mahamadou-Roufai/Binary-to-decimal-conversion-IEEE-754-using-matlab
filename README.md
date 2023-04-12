@@ -1,4 +1,4 @@
-# DECIMAL to BINARY and BINARY TO DECIMAL converter
+# DECIMAL to BINARY and BINARY TO DECIMAL convertion-IEEE 754
 
 This project is within the academic framework, it is requested to design an interface on matlab which allows to choose at first
 real to binary conversion (With options: Floating and fixed point with both precisions) and binary to real conversion
